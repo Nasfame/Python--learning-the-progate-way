@@ -1,3 +1,4 @@
+# 22-3
 # Python- learning the progate way
  A powerful language used in ML,DS and more
 
@@ -26,3 +27,4 @@ Python V
 Learn a practical way of using the classes covered in Python Study IV called Inheritance. With inheritance, you can give your food ordering system a major upgrade!
 
 	
+## Study zips has my code for reference
